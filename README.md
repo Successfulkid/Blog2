@@ -16,6 +16,7 @@
             font-weight:6;
             font-size:19px;
             color:rgb(193, 235, 217);
+            border:2px, solid, white;
         }
         a:hover{
              background-color:rgb(0, 245, 245);
@@ -25,9 +26,6 @@
         }
         a:focus{
              background-color:rgb(0, 245, 245);
-        }
-        #officials{
-             border: 2px, solid, white
         }
       </style>
       </head>
