@@ -11,11 +11,11 @@
          body{
             background-color:rgb(39, 62, 102);
         }
-        body{
+         body{
             font-family:Josefin Slabs;
             font-weight:6;
             font-size:19px;
-            color:rgb(193, 235, 217);;
+            color:rgb(193, 235, 217);
         }
         a:hover{
              background-color:rgb(0, 245, 245);
@@ -25,6 +25,9 @@
         }
         a:focus{
              background-color:rgb(0, 245, 245);
+        }
+        #officials{
+             border: 2px, solid, white
         }
       </style>
       </head>
@@ -66,7 +69,7 @@
 <p>Stay away from standing water. It may be electrically charged from underground or downed power lines.</p>
       <p>Don’t drink tap water until officials say its safe to do so.</p> 
       <a href="https://www.nhc.noaa.gov/"> To read more about Hurricane Dorian</a><br>
-    <a href="https://www.floridadisaster.org/info"> To read more about Hurricane Dorian</a><br>
+    <a href="https://www.floridadisaster.org/info"> Emergency Information for Hurricane Dorian</a><br>
     </body>
     </html>   
     
