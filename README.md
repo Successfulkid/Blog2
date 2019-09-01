@@ -13,10 +13,10 @@
       <h1>Dandre's Famous Blog</h1>
       <h3>Content</h3>
       <ul>
-        <li><a href="about-hurricane-dorian">About Hurricane Dorian</a></li>
-        <li><a href="before-a-hurricane">Before a Hurricane</a></li>
-        <li><a href="during-a-hurricane">During a Hurricane</a></li>
-        <li><a href="after-a-hurricane">After a Hurricane</a></li>
+        <li><a href="#about-hurricane-dorian">About Hurricane Dorian</a></li>
+        <li><a href="#before-a-hurricane">Before a Hurricane</a></li>
+        <li><a href="#during-a-hurricane">During a Hurricane</a></li>
+        <li><a href="#after-a-hurricane">After a Hurricane</a></li>
       </ul>
       <p>Hello everyone and thank you for joing my Blog. I know that it has been a while since I have put up my last blog but here I am. Today we will be talking about Hurricane Dorian.</p>
       <img src="https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/9/1/a21730339f1e47f0a05132f001625d32_18.jpg"alt="A pic of Hurrican Dorian"
