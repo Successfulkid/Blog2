@@ -2,7 +2,7 @@
   <html>
     <head>
       <meta charset="utf-8">
-      <title>Hurricane Dorian</title>
+      <title>Hurricane Dorians</title>
       <style>
         .dorian{
             color:rgb(0, 245, 245);
