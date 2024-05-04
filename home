@@ -20,85 +20,28 @@
         <section id = "aboutMe">
       <h3>About Me</h3>
       <img alt = "Dandre's Photo" src="">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+      <p>My name is Dandre Jackson, and I'm 19 years old. I have a passion for Parkour and motorcycles, finding joy in the adrenaline and freedom they bring. Alongside these hobbies, I also find fulfillment in coding. Exploring the intricacies of programming and creating digital solutions fuels my curiosity and creativity.</p>
+    </section>
+    <section id = "contactMe">
+    <h3>Contact Me</h3>
+    <form action="#">
+<label for="name">Enter your name: </label><input type = "text" id="name">
+<br>
+<label for="purpose">Selet a topic: </label>
+    <select id="purpose">
+        <option>make friends</option>
+        <option>intend to hire</option>
+        <option>like your page</option>
+        <option>someone you know</option>
+    </select>
+<br>
+<label for="message">Type your Message: </label>
+<br>
+<textarea id = "message"></textarea>
+<input type="submit" id = "submit" value="Send">
+<input type="reset" value="clear">
+</form>
+</section>
+</main>
+</body>
+</html>
